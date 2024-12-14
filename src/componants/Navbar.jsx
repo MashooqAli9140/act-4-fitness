@@ -1,5 +1,5 @@
 import React from 'react'
-
+import '/src/index.css'
 const Navbar = () => {
   return (
     <div style={{ backgroundColor:"#F5FEFF", padding:"10px 150px 10px 150px" , display:"flex",alignContent:"center", alignItems:"center", justifyContent:"space-between"}}>

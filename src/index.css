@@ -4,3 +4,27 @@
     margin: 0;
     font-family: roboto , sans-serif;
 }
+#navbtns{
+    background: none;
+    padding: 10px 15px 10px 15px;
+    border: none;
+    outline: none;
+    color: #0A2751;
+    font-size: 20px;
+    font-weight: 400;
+    cursor: pointer;
+}
+#navbtns:hover{
+    background-color:#0A2751;
+    color: white;
+    transform: scale(1.05);
+    transition: 0.1s ease-in-out;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+
+a{
+    text-decoration: none;
+    background:none;
+}
