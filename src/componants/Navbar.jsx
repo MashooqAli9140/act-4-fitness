@@ -14,8 +14,7 @@ const Navbar = () => {
             <a href="/"> 
             <button id='navbtns' > Add New Milestone </button>
             </a>
-          </div>
-              
+          </div>            
     </div>
   )
 }
